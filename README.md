@@ -4,7 +4,7 @@
 Software Engineer & Full-Stack Developer, **B.Tech graduate from IIT (ISM) Dhanbad**, focused on building scalable, secure, and production-ready web applications with strong backend architecture.
 
 **🚀 What I’m Currently Working On**  
-- Full-stack systems using **Next.js, Node.js, MongoDB, Redis**
+- Full-stack systems using **Next.js, React, Node.js, Express, MongoDB, Firebase, Redis**
 - Authentication, payments, admin dashboards, and system optimization
 - **AI integrations** to enhance product intelligence and automation
 - Improving API performance, security, and system design skills
