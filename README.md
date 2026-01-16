@@ -14,7 +14,7 @@ I have multiple pinned projects on my profile — my favorite is **[GoldenZaika]
 
 
 **🛠️ Tools & Technologies**  
-React · Next.js · Tailwind CSS · Node.js · Express · REST APIs · JWT · NextAuth · MongoDB · Redis · Firebase (Storage, Firestore) · AWS S3 · AI API Integrations · Docker · Git · JavaScript · C++ · Python . Redux . AI
+React · Next.js · Tailwind CSS · Node.js · Express · REST APIs · JWT · NextAuth · MongoDB · Redis · Firebase (Storage, Firestore) · AWS S3 · AI API Integrations · Docker · Git · JavaScript · C++ · Python · Redux · AI · Unit Testing ( Jest ) · Kafka · Socket.io
 
 
 **📫 How to Reach Me**  
